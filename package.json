@@ -2,7 +2,8 @@
   "name": "no-repeat-request",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
+  "description": "能自动取消重复请求的小工具",
+  "repository": "https://github.com/iconWave/no-repeat-request.git",
   "main": "/dist/index.js",
   "scripts": {
     "test": "node example",

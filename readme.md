@@ -34,3 +34,5 @@
 	// 完整写法  请求方式，url，参数，请求头，是否去重，是否为文件上传
 	norrt.request(method, url, params, headers, preventRepeat = true, uploadFile = false);
 ```
+
+
